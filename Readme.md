@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Екатерина Чернецова](https://up.htmlacademy.ru/htmlcss/21/user/801983).
-* Наставник: Максим Фарига](https://htmlacademy.ru/profile/maximfariga).
+* Наставник: [Максим Фарига](https://htmlacademy.ru/profile/maximfariga).
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
